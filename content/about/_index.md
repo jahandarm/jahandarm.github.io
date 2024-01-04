@@ -3,9 +3,10 @@ title: "About me"
 draft: false
 ---
 
-Senior Software Engineer at Booking.com by day, Software Engineer at University of Manchester by evening
+Senior Software Engineer at [Booking.com](https://booking.com)\
+Software Engineer at [University of Manchester](https://www.manchester.ac.uk)\
+Alumnus of [University of Manchester](https://www.manchester.ac.uk)
 
+Living since '96\. Coding since '10.
 
-
-Living since 1996\
-Coding since 2010
+It does not really matter. Nothing matters...
