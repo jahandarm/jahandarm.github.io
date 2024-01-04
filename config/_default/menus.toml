@@ -1,0 +1,25 @@
+[[main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[main]]
+    identifier = "about"
+    name = "About me"
+    url = "/about"
+    weight = 2
+
+[[main]]
+    identifier = "github"
+    name = "Github"
+    url = "https://github.com/jahandarm"
+    weight = 5
+    
+# Social Media Configuration
+
+# [[social]]
+#    identifier = "instagram"
+#    name = "Instagram"
+#    url = "#"
+#    weight = 2
